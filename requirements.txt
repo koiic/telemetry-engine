@@ -1,0 +1,5 @@
+# requirements for django
+
+# requirements for django
+Django==4.2.3
+pytest-django==4.5.2
